@@ -1,0 +1,20 @@
+{
+  "name": "kane",
+  "version": "1.0.0",
+  "description": "Money management",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kariudo/kane.git"
+  },
+  "keywords": [
+    "money",
+    "banking"
+  ],
+  "author": "Hunter Horsman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kariudo/kane/issues"
+  },
+  "homepage": "https://github.com/kariudo/kane#readme"
+}
